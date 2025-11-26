@@ -9,7 +9,7 @@ Here is a summary of the projects completed so far. As I continue to learn, this
 | # | Project Name | Description | Key Concepts Learned |
 |---|---|---|---|
 | 1 | **Handwritten Digit Recognition (MNIST)** | A foundational "Hello, World!" project for image classification. This notebook builds a simple feed-forward neural network to recognize handwritten digits from 0 to 9 with ~98% accuracy. | `TensorFlow/Keras`, `Sequential Model`, `Dense Layers`, `Data Preprocessing & Normalization`, `Model Training & Evaluation` |
-|   | *(Your next project will go here!)* | | |
+| 2 | **IMDb Movie Review Sentiment Analysis** | An introductory NLP project performing binary classification on movie reviews. The model uses word embeddings and dense layers with **Dropout** regularization to fix overfitting, achieving ~87.8% accuracy. | `NLP & Word Embeddings`, `Sequence Padding`, `Binary Classification`, `Dropout Regularization`, `GlobalAveragePooling1D`, `Overfitting Analysis` |
 
 
 ## 🛠️ Technologies & Tools
