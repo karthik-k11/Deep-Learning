@@ -4,6 +4,8 @@ Welcome to my repository of deep learning projects! This space serves as a portf
 
 ## 🚀 Projects
 
+![DL_Cover](https://github.com/user-attachments/assets/c485c7ec-bdba-41d6-94ce-279c9188f061)
+
 Here is a summary of the projects completed so far. As I continue to learn, this list will grow.
 
 | # | Project Name | Description | Key Concepts Learned |
